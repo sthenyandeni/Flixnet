@@ -1,0 +1,13 @@
+.navbar-link {
+    margin-left: 16px;
+    color: white;
+}
+
+.navbar-link:hover {
+    color: grey;
+    text-decoration: none;
+}
+
+.active {
+    color: gray;
+}
